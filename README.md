@@ -14,6 +14,7 @@
 | [0001-two-sum](https://github.com/sadre0786/LEETCODE/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/sadre0786/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/sadre0786/LEETCODE/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/sadre0786/LEETCODE/tree/master/0383-ransom-note) |
 ## Two Pointers
 |  |
 | ------- |
@@ -28,4 +29,9 @@
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/sadre0786/LEETCODE/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/sadre0786/LEETCODE/tree/master/0383-ransom-note) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/sadre0786/LEETCODE/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
