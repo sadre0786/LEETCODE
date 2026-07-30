@@ -10,6 +10,7 @@
 | [0049-group-anagrams](https://github.com/sadre0786/LEETCODE/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/sadre0786/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/sadre0786/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
+| [0704-binary-search](https://github.com/sadre0786/LEETCODE/tree/master/0704-binary-search) |
 ## Hash Table
 |  |
 | ------- |
@@ -50,6 +51,7 @@
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/sadre0786/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
+| [0704-binary-search](https://github.com/sadre0786/LEETCODE/tree/master/0704-binary-search) |
 ## Math
 |  |
 | ------- |
