@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/sadre0786/LEETCODE/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sadre0786/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/sadre0786/LEETCODE/tree/master/0027-remove-element) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sadre0786/LEETCODE/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/sadre0786/LEETCODE/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/sadre0786/LEETCODE/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/sadre0786/LEETCODE/tree/master/0217-contains-duplicate) |
@@ -51,6 +52,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sadre0786/LEETCODE/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/sadre0786/LEETCODE/tree/master/0035-search-insert-position) |
 | [0349-intersection-of-two-arrays](https://github.com/sadre0786/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/sadre0786/LEETCODE/tree/master/0704-binary-search) |
