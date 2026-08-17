@@ -15,6 +15,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/sadre0786/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/sadre0786/LEETCODE/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/sadre0786/LEETCODE/tree/master/0875-koko-eating-bananas) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/sadre0786/LEETCODE/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Hash Table
 |  |
 | ------- |
@@ -61,6 +62,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/sadre0786/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/sadre0786/LEETCODE/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/sadre0786/LEETCODE/tree/master/0875-koko-eating-bananas) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/sadre0786/LEETCODE/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Math
 |  |
 | ------- |
