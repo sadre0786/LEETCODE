@@ -46,6 +46,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/sadre0786/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/sadre0786/LEETCODE/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/sadre0786/LEETCODE/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/sadre0786/LEETCODE/tree/master/0242-valid-anagram) |
@@ -81,4 +82,12 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/sadre0786/LEETCODE/tree/master/0069-sqrtx) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/sadre0786/LEETCODE/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/sadre0786/LEETCODE/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
